@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CV ALENA</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <link rel="icon" href="assets/favicon.ico">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -16,12 +16,12 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
-<body>
+<body >
 
     <header class="header">
-        <div class="container-fluid container-lg">
+        <div class="container-fluid container-lg bg-success " style="--bs-bg-opacity: .1;">
 
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <nav class="navbar navbar-expand-lg navbar-light ">
                 <div class="container-fluid">
 
                     <a class="navbar-brand text-decoration-none" href="#">
@@ -51,7 +51,7 @@
         </div>
     </header>
     <main class="main">
-        <div class="container-fluid container-sm vh-100 mx-auto">
+        <div class="container-fluid container-sm vh-100 mx-auto  text-dark">
             <div class="main-container d-flex flex-column bd-highlight mb-3 row gap-6">
                 <section class="col profile p-2 bd-highlight border-bottom " id="profile">
                     <div class="section-title col">
@@ -109,17 +109,7 @@
                                         aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">English A2</div>
                                 </div>
 
-                                <!-- <ul class ="navbar-nav dropdown ">
-                                    <li class="fs-6 fs-sm-3" > <div class="progress">
-                                        <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                                      </div></li>
-                                    <li class="fs-6 fs-sm-3"><div class="progress">
-                                        <div class="progress-bar" role="progressbar" style="width: 35%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">Javascript</div>
-                                      </div></li>
-                                    <li class="fs-6 fs-sm-3"></li>
-                                    <li class="fs-6 fs-sm-3">Bootstrap</li>
-                                    <li class="fs-6 fs-sm-3">English A2</li>
-                                </ul> -->
+                       
                             </div>
 
                         </div>
@@ -128,35 +118,48 @@
                     </div>
                 </section>
                 <!--Projects-->
-                <section class="projects p-2 bd-highlight col border-bottom" id="projects">
+                <section class="projects p-2 bd-highlight col border-bottom w-5 " id="projects">
                     <div class="section-title">
                         <div class="my-pro border-bottom">
-                            <h3>PROJECTS</h3>
-                            <div class="container row">
+                            <h3 class="text-success">PROJECTS</h3>
+                            <div class="container row m-auto">
 
-                                <div class="pro-info w-15 p-3 col text-center">
-                                    <p>Html/Scss/Adaptive</p>
-                                    <a href="https://rolling-scopes-school.github.io/alena3112-JSFEPRESCHOOL2023Q2/library/"
-                                        target="_blank">
-                                        <img src="./assets/girl.jpg" alt="Library" title="labrary"
-                                            class=" d-flex rounded float-start img-fluid">
-                                    </a>
+                                <div class="pro-info w-15 p-3 col col-lg-2 text-center vh-10">
+                                    <div class="card" >
+                                        <a href="https://rolling-scopes-school.github.io/alena3112-JSFEPRESCHOOL2023Q2/library" target="_blank">  <img src="/assets/contact_woman.jpg" class="card-img-top vh-10" alt="lidrary"></a>
+                                        <div class="card-body">
+                                          <p class="card-text">Html/Scss/Css</p>
+                                        </div>
+                                      </div>
+                                   
                                 </div>
-                                <div class="pro-info w-15 p-3 col text-center">
-                                    <p>Html/Css/Adaptive</p>
-                                    <a href="https://alena3112-farmgame.w3spaces.com/" target="_blank">
-                                        <img src="./assets/Frame.png" alt="Farmgame" title="Farmgame"
-                                            class="d-flex rounded float-start img-fluid my-4">
-                                    </a>
+                                <div class="pro-info w-15 p-3 col col-lg-2 text-center vh-10">
+                                    <div class="card" >
+                                        <a href="https://rolling-scopes-school.github.io/alena3112-JSFEPRESCHOOL2023Q2/library" target="_blank">  <img src="/assets/girl.jpg" class="card-img-top vh-10" alt="lidrary"></a>
+                                        <div class="card-body">
+                                          <p class="card-text">Html/Scss/Css</p>
+                                        </div>
+                                      </div>
+                                   
                                 </div>
-                                <div class="pro-info w-15 p-3 col text-center">
-                                    <p class="text-center">Bootstrap</p>
-                                    <a href="https://alena3112.github.io/project/" target="_blank">
-                                        <img src="./assets/cv.ico" alt="cv" title="cv"
-                                            class="d-flex rounded float-start img-fluid my-4">
-                                    </a>
+                                <div class="pro-info w-15 p-3 col col-lg-2 text-center ">
+                                    <div class="card" >
+                                        <a href="https://alena3112-farmgame.w3spaces.com/" target="_blank">  <img src="/assets/Frame.png" class="card-img-top hv-20" alt="lidrary"></a>
+                                        <div class="card-body">
+                                          <p class="card-text">Html/Css/Adaptive</p>
+                                        </div>
+                                      </div>
+                                                                   </div>
+                                <div class="pro-info w-15 p-3 col col-lg-2 text-center">
+                                    <div class="card " >
+                                        <a href="https://alena3112.github.io/project/" target="_blank">  <img src="/assets/cv.ico" class="card-img-top hv-20" alt="lidrary"></a>
+                                        <div class="card-body">
+                                          <p class="card-text">Bootstrap</p>
+                                        </div>
+                                      </div>
+                                    
                                 </div>
-                                <div class="pro-info w-35 p-3 col text-center">
+                                <div class="pro-info w-35 p-3 col col-lg-2 text-center">
                                     <div class="container row">
                                         <p>Javascript</p>
                                         <div class="col w-15">
@@ -180,7 +183,7 @@
 
 
                         </div>
-                        <h3 class="p-0 mt-2">WORK</h3>
+                        <h3 class="p-0 mt-2 text-success">WORK</h3>
                         <div class="container">
 
                             <ul class="navbar-nav dropdown">
@@ -210,7 +213,7 @@
                 <!--Education-->
                 <section class="education p-2 bd-highlight col border-bottom" id="education">
                     <div class="section-title">
-                        <h3>EDUCATION</h3>
+                        <h3 class="text-success">EDUCATION</h3>
                         <p>Educational institution "Belarusian Trade and Economic University of
                             Consumer Cooperatives"</p>
                         <p> 2023 Сourses Front-End: RSSchool</p>
@@ -219,7 +222,7 @@
                 <!-- summary -->
                 <section class="summary p-2 bd-highlight col border-bottom" id="summary">
                     <div class="section-title">
-                        <h3>SUMMARY</h3>
+                        <h3 class="text-success">SUMMARY</h3>
                         <div class="text">
                             <p>I can work in a team/in a large team/emotionally charge the team for
                                 a positive</p>
