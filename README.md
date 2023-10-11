@@ -1,32 +1,39 @@
 
 
 <div id="header" align="center">
-  <img src="https://loftschool.com/uploads/blog/images/b4476798f6669dde9be81d384d29d6ea.png" width="100"/>
+ 
   <div id="badges">
+    <h2>PROJECTS</h2>
     <a href="https://alena3112.github.io/library/">
-      <img src="https://alena3112.github.io/library/acsess/img/girl.jpg" alt="library"/>
+      Library
+      <img src="https://alena3112.github.io/library/acsess/img/girl.jpg" alt="library" width="100"/>
     </a>
     <a href="https://alena3112.github.io/house/">
-      <img src="https://alena3112.github.io/house/acsses/Line_Vertical_1.png" alt="house"/>
+      House
+      <img src="https://raw.githubusercontent.com/Alena3112/house/be89ac266d9dc1b39fdb90775dd861ff80b14db3/acsses/logoBtn.svg" alt="house" width="100"/>
     </a>
     <a href="https://alena3112.github.io/project/">
-       <img src="https://alena3112.github.io/project/assets/alenaalena.jpg" alt="cv"/>
+      <p>CV</p>
+       <img src="https://loftschool.com/uploads/blog/images/b4476798f6669dde9be81d384d29d6ea.png" alt="cv" width="100"/>
     </a>
   </div>
-
-  <h1>
-   hi everybody
+    <h1>
+   Hi everybody!
    
   </h1>
+  </div>
+
+
+  
 ---
 
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m contributing to frontend 
+:telescope: I’m contributing to frontend 
 
-- :seedling: Exploring HTML, CSS,JS
+:seedling: Exploring HTML, CSS,JS
 
-- :zap: In my free time, I read tech articles.
+:zap: In my free time, I read tech articles.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -40,8 +47,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alena3112)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alena3112&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
