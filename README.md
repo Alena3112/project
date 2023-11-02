@@ -14,10 +14,13 @@
              <img src="https://avatars.mds.yandex.net/i?id=0e10d8aea64b0e1e9ad3a2a4ec241b06cf4a00ee-8498042-images-thumbs&n=13" alt="cv" width="100"/>
     </a>
      <a href="https://alena3112.github.io/cake/">
-             <img src="https://alena3112.github.io/cake/img/CAKE.png" alt="cv" width="100"/>
+             <img src="https://alena3112.github.io/cake/img/CAKE.png" alt="cake" width="100"/>
     </a>
       <a href="https://alena3112.github.io/custom/">
-             <img src="https://alena3112.github.io/custom/img/proj6.png" alt="cv" width="100"/>
+             <img src="https://alena3112.github.io/custom/img/proj6.png" alt="sustom" width="100"/>
+    </a>
+       <a href="https://alena3112.github.io/camping/">
+             <img src="https://alena3112.github.io/camping/img/mountains.jpg" alt="camping" width="100"/>
     </a>
   </div>
     <h1>
