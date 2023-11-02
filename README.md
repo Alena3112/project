@@ -16,6 +16,9 @@
      <a href="https://alena3112.github.io/cake/">
              <img src="https://alena3112.github.io/cake/img/CAKE.png" alt="cv" width="100"/>
     </a>
+      <a href="https://alena3112.github.io/custom/">
+             <img src="https://alena3112.github.io/custom/img/proj6.png" alt="cv" width="100"/>
+    </a>
   </div>
     <h1>
    Hi everybody!
@@ -44,6 +47,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="40" height="40"/>&nbsp;
 </div>
 
 ---
