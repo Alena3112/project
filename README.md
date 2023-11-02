@@ -13,6 +13,9 @@
     <a href="https://alena3112.github.io/project/">
              <img src="https://avatars.mds.yandex.net/i?id=0e10d8aea64b0e1e9ad3a2a4ec241b06cf4a00ee-8498042-images-thumbs&n=13" alt="cv" width="100"/>
     </a>
+     <a href="https://alena3112.github.io/cake/">
+             <img src="https://alena3112.github.io/cake/img/CAKE.png" alt="cv" width="100"/>
+    </a>
   </div>
     <h1>
    Hi everybody!
