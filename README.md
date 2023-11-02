@@ -11,7 +11,7 @@
        <img src="https://raw.githubusercontent.com/Alena3112/house/be89ac266d9dc1b39fdb90775dd861ff80b14db3/acsses/logoBtn.svg" alt="house" width="100"/>
     </a>
     <a href="https://alena3112.github.io/project/">
-             <img src="https://loftschool.com/uploads/blog/images/b4476798f6669dde9be81d384d29d6ea.png" alt="cv" width="100"/>
+             <img src="https://avatars.mds.yandex.net/i?id=0e10d8aea64b0e1e9ad3a2a4ec241b06cf4a00ee-8498042-images-thumbs&n=13" alt="cv" width="100"/>
     </a>
   </div>
     <h1>
