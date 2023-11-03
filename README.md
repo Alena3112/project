@@ -17,7 +17,7 @@
              <img src="https://alena3112.github.io/cake/img/CAKE.png" alt="cake" width="100"/>
     </a>
       <a href="https://alena3112.github.io/custom/">
-             <img src="https://alena3112.github.io/custom/img/proj6.png" alt="sustom" width="100"/>
+             <img src="https://alena3112.github.io/custom/img/proj6.png" alt="custom" width="100"/>
     </a>
        <a href="https://alena3112.github.io/camping/">
              <img src="https://alena3112.github.io/camping/img/mountains.jpg" alt="camping" width="100"/>
